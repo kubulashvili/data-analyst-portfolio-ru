@@ -13,8 +13,6 @@
 - A/B-тестирование
 - Python
 - Pandas
-- Matplotlib
-- Seaborn
 - событийная аналитика
 - продуктовые метрики
 - Plotly
